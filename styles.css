@@ -1,0 +1,148 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container
+{
+    display: block;
+    background-image: url("AMBER.PNG.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0.7);
+    background-blend-mode:multiply ;
+}
+
+
+.item1
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgba(24, 24, 24, 73);
+    height: 80px;
+}
+.item2
+{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 70px;
+}
+.item3
+{
+    display: flex;
+    flex-direction: row;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 70px;    
+}
+
+p
+{
+   font-family: sans-serif;
+}
+
+.text1
+{
+    font-size: 35px;
+    color: white;
+}
+.text2
+{
+    font-size: 25px;
+    margin-left: 10px;
+    color: white;
+}
+.item4
+{
+    display: flex;
+    flex-direction: column;
+    height: 650px;
+}
+.item9
+{
+    margin: auto;
+    text-align: center;
+}
+.text3
+{
+    font-size: 50px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+.text4
+{
+    font-size: 25px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+.button
+{
+   margin-top: 35px;
+   background-color: rgba(0, 0, 0, 0.7);
+   border-radius: 10px;
+   margin-right: auto;
+   margin-left: auto;
+   width: 170px;
+}
+.textbutton
+{
+   font-size: 30px;
+   color: white;
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
+
+.karrie1 {
+    display: flex;
+    flex-direction: column;
+    background-image: url("1219675.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(0, 0, 0, 0.7);
+    background-blend-mode: multiply;
+    height: 650px;
+}
+.karrie2 {
+    margin: auto;
+    text-align: center;
+}
+.ireng1 {
+    font-size: 50px;
+    font-weight: bolder;
+    color: rgb(150, 40, 40);
+}
+.ireng2 {
+    font-size: 25px;
+    color: white ;
+    margin-top: 100px;
+    white-space:pre;
+}
+.negro1 {
+    display: flex;
+    flex-direction: column;
+    background-image: url("desktop-wallpaper-aether-aesthetic-genshin-impact.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(0, 0, 0, 0.7);
+    background-blend-mode: multiply;
+    height: 650px;
+}
+.negro2 {
+    margin: auto;
+    text-align: center;
+    
+}
+.black1 {
+    font-size: 50px;
+    font-weight: bolder;
+    color: rgb(252, 52, 17);
+    margin-bottom: 200px;
+}
+.black2 {
+font-size: 25px;
+font-style: italic;
+color: black;
+text-decoration: underline;
+}
